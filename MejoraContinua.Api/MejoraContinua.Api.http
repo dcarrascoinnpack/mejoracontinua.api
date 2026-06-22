@@ -1,0 +1,6 @@
+@MejoraContinua.Api_HostAddress = http://localhost:5198
+
+GET {{MejoraContinua.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

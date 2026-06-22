@@ -1,0 +1,16 @@
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/MejoraContinua.Api
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/appsettings.json
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/MejoraContinua.Api.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/MejoraContinua.Api.deps.json
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/MejoraContinua.Api.runtimeconfig.json
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/MejoraContinua.Api.pdb
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Dapper.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/MySqlConnector.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
