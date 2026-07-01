@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/MejoraContinua.Api.props" />
+  <Import Project="..\build\MejoraContinua.Api.props" />
 </Project>

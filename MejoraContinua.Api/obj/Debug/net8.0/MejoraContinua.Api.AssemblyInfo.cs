@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MejoraContinua.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cbf6f116e9a057df8e88004e054e3e1d6362cfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MejoraContinua.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MejoraContinua.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

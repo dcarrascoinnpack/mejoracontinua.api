@@ -10,6 +10,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<DbConnectionFactory>();
 builder.Services.AddScoped<NoConformidadRepository>();
+builder.Services.AddScoped<AnalisisCausaRaizRepository>();
+builder.Services.AddScoped<AccionCorrectivaRepository>();
 
 var app = builder.Build();
 

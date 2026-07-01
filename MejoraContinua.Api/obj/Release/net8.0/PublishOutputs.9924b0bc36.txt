@@ -1,0 +1,16 @@
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\MejoraContinua.Api.exe
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\appsettings.json
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\MejoraContinua.Api.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\MejoraContinua.Api.deps.json
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\MejoraContinua.Api.runtimeconfig.json
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\MejoraContinua.Api.pdb
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Dapper.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\MySqlConnector.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dcarrasco\Desktop\Proyectos\mejoracontinua.api\mejoracontinua.api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

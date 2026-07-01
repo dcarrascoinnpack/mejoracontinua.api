@@ -706,19 +706,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/diego/.nuget/packages/": {}
+    "C:\\Users\\dcarrasco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/MejoraContinua.Api.csproj",
+      "projectUniqueName": "C:\\Users\\dcarrasco\\Desktop\\Proyectos\\mejoracontinua.api\\mejoracontinua.api\\MejoraContinua.Api.csproj",
       "projectName": "MejoraContinua.Api",
-      "projectPath": "/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/MejoraContinua.Api.csproj",
-      "packagesPath": "/Users/diego/.nuget/packages/",
-      "outputPath": "/Users/diego/Desktop/Proyectos/MejoraContinua.Api/MejoraContinua.Api/obj/",
+      "projectPath": "C:\\Users\\dcarrasco\\Desktop\\Proyectos\\mejoracontinua.api\\mejoracontinua.api\\MejoraContinua.Api.csproj",
+      "packagesPath": "C:\\Users\\dcarrasco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dcarrasco\\Desktop\\Proyectos\\mejoracontinua.api\\mejoracontinua.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/diego/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dcarrasco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -783,7 +783,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.418/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
